@@ -34,4 +34,4 @@ Run the commands from below in your vs-code project folder terminal.
 ![Screenshot 2023-01-02 110930](https://user-images.githubusercontent.com/39629707/210198069-47e5f5d6-4d95-48b3-a56b-d9fc703d9548.jpg)
 
 ## :octocat: Note:
-I made this website while learning Full-Stack Web Development and please feel free to suggest any changes. Thanks!
+I made this website while learning `Full-Stack Web Development` and please feel free to suggest any changes. Thanks!
