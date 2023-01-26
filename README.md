@@ -18,7 +18,6 @@ This is a simple website made using,
 5. <b>`requests`</b> Mobule
 6. <b>`EJS`</b> Module  ...obviously!
 
-<hr />
 ## :octocat: To install modules and frameworks
 
 
