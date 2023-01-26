@@ -3,6 +3,12 @@
 If you are someone willing to learn `EJS`, this project could be your goto!
 The website will show you today's weekday!
 
+# Note from Owner
+- [x] <b>I have not worked much on `css` and `html` for simplicity.</b>
+- [x] <b>This website will give you a clear understanding of how `Openweather API` works!</b>
+
+<hr />
+
 This is a simple website made using,
 
 1. <b>`Node.js`</b> 
