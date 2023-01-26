@@ -18,7 +18,7 @@ This is a simple website made using,
 5. <b>`requests`</b> Mobule
 6. <b>`EJS`</b> Module  ...obviously!
 
-
+<hr />
 ## :octocat: To install modules and frameworks
 
 
@@ -31,6 +31,7 @@ Run the commands from below in your vs-code project folder terminal.
   npm i ejs
 ```
 
+<hr />
 ## :octocat: Using `EJS`:
 
 1. Follow the documentation for syntax, how-to and further elaboration --(https://ejs.co/)
